@@ -36,6 +36,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=Java&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/spring%20-%2314354C.svg?&style=for-the-badge&logo=Spring&logoColor=green"/>
+ <img src="https://img.shields.io/badge/hibernate%20-%2314354C.svg?&style=for-the-badge&logo=Hibernate&logoColor=green"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
