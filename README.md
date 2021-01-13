@@ -15,8 +15,8 @@
 ## &nbsp; &nbsp; **About Me**
 
 - I'm aspiring 🔭️ Back-End Developer.
-- I always like working in 🐧️ Spring FrameWork.
-- I worked on development of websites using spring framework. 
+- I always like working in 🐧️ Linux Environment.
+- I worked on development of websites using Spring framework. 
 - I worked as Spring developer for Accord Global Technologies Pvt Ltd.  
 - Java Full Stack aspirant.
 
