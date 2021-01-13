@@ -31,3 +31,8 @@
 </p></p>
 
 ---
+
+<h1 align="center"> 🚀 Skills & Technologies</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=Java&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/spring%20-%2314354C.svg?&style=for-the-badge&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/jsp-%23777BB4.svg?&style=for-the-badge&logo=jsp&logoColor=white"/>
+ </p>
