@@ -17,8 +17,8 @@
 - I'm aspiring 🔭️ Back-End Developer.
 - I always like working in 🐧️ Linux Environment.
 - I worked on development of websites using Spring framework. 
-- I worked as Spring developer for Accord Global Technologies Pvt Ltd.  
-- Java Full Stack aspirant.
+- I worked as Spring and Spring boot developer in previous jobs.  
+- Full Stack Developer aspirant.
 
 .
 
