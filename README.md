@@ -14,10 +14,10 @@
 
 ## &nbsp; &nbsp; **About Me**
 
-- I'm aspiring 🔭️ Back-End Developer.
-- I always like working in 🐧️ Linux Environment.
-- I worked on development of websites using Spring framework. 
-- I worked as Spring and Spring boot developer in previous jobs.  
+- I'm aspiring 🔭️ Full-Stack Developer.
+- I always like working in 🐧️ Linux Environment and Windows Enviroment.
+- I worked on development of websites using Spring Boot, Node JS, React JS farmeworks. 
+- I worked as Spring boot developer in previous jobs.  
 - Full Stack Developer aspirant.
 
 .
